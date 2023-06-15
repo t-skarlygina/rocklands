@@ -5,6 +5,6 @@
 
 https://public.tableau.com/app/profile/tatiana4682/viz/Marathon_16768313840320/Dashboard1
 
-![rock1](https://github.com/t-skarlygina/rocklands/assets/128238543/496287f9-9531-4e35-b25b-179f51449838)
+![rock1](https://github.com/t-skarlygina/rocklands/assets/128238543/b3aa311d-05cb-4fcb-b2fe-84b3c16e03a1)
 
-![rock2](https://github.com/t-skarlygina/rocklands/assets/128238543/fb96016e-fac5-41c1-93b8-c648cd554823)
+![rock2](https://github.com/t-skarlygina/rocklands/assets/128238543/74282c62-06b7-4ebc-8e68-cf82a372d366)
