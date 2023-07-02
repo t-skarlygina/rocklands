@@ -7,6 +7,8 @@
 
 Затем была непростая задача - как можно скорее после окончания соревнований сделать дашборд. Решила делать мобильную версию, так как предположила, что участники будут просматривать его преимущественно с телефонов. Дашборд набрал 150+ просмотров. Надеюсь, что он был полезен и интересен.
 
-![screenshot1](https://github.com/t-skarlygina/rocklands/assets/128238543/a731cc6a-97e2-42d2-96b9-df6d41fd075f) ![screenshot2](https://github.com/t-skarlygina/rocklands/assets/128238543/01605f82-7992-43b3-92d2-f65018c7cca2)
+![screenshot1](https://github.com/t-skarlygina/rocklands/assets/128238543/a731cc6a-97e2-42d2-96b9-df6d41fd075f) 
+
+![screenshot2](https://github.com/t-skarlygina/rocklands/assets/128238543/01605f82-7992-43b3-92d2-f65018c7cca2)
 
 https://public.tableau.com/app/profile/tatiana4682/viz/Marathon_16768313840320/Dashboard1
